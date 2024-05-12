@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything about math, geometry, algebra...
 - 📫 How to reach me: ... fly to south korea lol
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... My friend EunHyuk Koh stands for LGBTQ+ Right to fight :)
+- ⚡ Fun fact: ... My friend EunHyuk Koh stands for LGBTQ+ Right to fight! not me :) // EunHyuk Koh Github link : https://github.com/Eunhyuk0
