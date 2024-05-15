@@ -4,6 +4,7 @@
 **sciencebeta2/sciencebeta2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gunner24)](https://solved.ac/gunner24)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunner24)](https://solved.ac/profile/gunner24)
 
 Here are some ideas to get you started:
 
