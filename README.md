@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi there :) 👋
 
+I am a developer who creates activities that make the world more valuable by creating something like codes.
 
-**sciencebeta2/sciencebeta2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in Web Hacking, Algorythms(especially C/C++, Python), Algebra, Geometry, Physics & Chemistry, and almost everything about developing something good.
+
+I am currently attending Korea Digital Media High School 23rd Dept of Hacking Defence in South Korea.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunner24)](https://solved.ac/profile/gunner24)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=gunner24&theme=warm)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Korea Digital Media High School 23th Hacking Defence
-- 🌱 I’m currently learning ... C, C++, Python, Java, HTML...
-- 👯 I’m looking to collaborate on ... Anyone who interested in Security of Algorithm, Math!
-- 🤔 I’m looking for help with ... BOJ solved.ac Algorithm problems
-- 💬 Ask me about ... anything about math, geometry, algebra...
-- 📫 How to reach me: ... fly to south korea lol
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... My friend EunHyuk Koh stands for LGBTQ+ Right to fight! not me :) // EunHyuk Koh Github link : https://github.com/Eunhyuk0
