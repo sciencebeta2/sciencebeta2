@@ -1,4 +1,4 @@
-### Hi there :) 👋
+### I'm Xeldris.
 
 I am a **developer** who creates activities that make the world more valuable by creating something like codes.
 
